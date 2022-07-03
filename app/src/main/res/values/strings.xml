@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="app_name">
+        <item>Война и мир</item>
+        <item>Ревизорр</item>
+        <item>Преступление и накзание</item>
+        <item>Ведькак</item>
+        <item>Метро 2033</item>
+    </string-array>
+</resources>
